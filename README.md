@@ -1,0 +1,2 @@
+A project for the game "luffarschack". A board is created with 10x10. Each tile have their own eventlistener with their own coordinate.
+Early concept of an array for the player turn to decide if a circle or cross should be placed in the tile.
